@@ -6,11 +6,12 @@ My first 3D game built with Godot
 
 ## About
 
-Chase and squash the creeps by jumping on them. Get hit from the side and it's game over. The more you squash, the higher your score.
+- Chase and squash the creeps by jumping on them. Get hit from the side and it's game over. The more you squash, the higher your score.
+- Based on the official [Your First 3D Game](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html) tutorial from Godot documentation.
 
-## Requirements
+## Play
 
-- Godot
+- Requires [Godot](https://godotengine.org/download) to run from source.
 
 ## Controls
 
