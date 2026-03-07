@@ -2,8 +2,6 @@
 
 My first 3D game built with Godot
 
-![Gameplay](assets/gameplay.gif)
-
 ## About
 
 - Chase and squash the creeps by jumping on them. Get hit from the side and it's game over. The more you squash, the higher your score.
